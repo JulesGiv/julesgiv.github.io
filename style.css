@@ -25,17 +25,23 @@ header a{
 }
 
 #corps{
-    width: 70%;
+    width: 80%;
     height: 100%;
     margin: 30px 30px
 }
 #texte-photo {
   display: inline-block;
   vertical-align: top;
-  width: 60%
+  width: 50%;
+  line-height: 120%;
 }
 
 #photo_accueil{
     width: 320px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+#contact{
+    line-height: 120%
 }
