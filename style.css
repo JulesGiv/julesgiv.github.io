@@ -43,5 +43,11 @@ header a{
 }
 
 #contact{
-    line-height: 120%
+    line-height: 120%;
+    margin-top: 10px;
+}
+
+#corps_doc{
+    margin: 30px 40px;
+    line-height: 150%
 }
