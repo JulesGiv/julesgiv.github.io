@@ -43,12 +43,13 @@ header a{
 
 #photo_accueil{
     width: 320px;
+    margin-bottom: 10px;
     margin-right: 20px
 }
 
 #contact{
     line-height: 120%;
-    margin-top: 10px;
+    
 }
 
 #corps_doc{
