@@ -1,5 +1,6 @@
 body{
-    background: #f9eedc
+    background: #f9eedc;
+    font-family: verdana
 }
 
 header{
@@ -24,5 +25,17 @@ header a{
 }
 
 #corps{
-    width: 60%
+    width: 70%;
+    height: 100%;
+    margin: 30px 30px
+}
+#texte-photo {
+  display: inline-block;
+  vertical-align: top;
+  width: 60%
+}
+
+#photo_accueil{
+    width: 320px;
+    margin-bottom: 20px
 }
