@@ -1,6 +1,6 @@
 body{
     background: #f9eedc;
-    font-family: verdana
+    font-family: verdana;
 }
 
 header{
@@ -15,7 +15,7 @@ header a{
 }
 
 #menu{
-    width: 1200px;
+    width: 100%;
     margin: 0 auto;
     height: 100%
 }
