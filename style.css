@@ -3,6 +3,7 @@ body{
     font-family: verdana;
 }
 
+
 * {
   box-sizing: border-box;
 }
@@ -62,7 +63,17 @@ header a{
     margin-left:15px
 }
 
+.doc-list a{
+    text-decoration: none;
+}
+
 #corps_ens{
     margin: 30px 40px;
     line-height: 150%
+}
+
+
+
+.nom{
+    text-decoration: underline
 }
