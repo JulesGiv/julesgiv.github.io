@@ -35,7 +35,8 @@ header a{
 
 #corps{
     margin-top: 20px;
-    margin-left: 20px
+    margin-left: 20px;
+    margin-bottom: 20px
 }
 #texte-photo {
   display: inline-block;
