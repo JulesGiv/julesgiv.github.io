@@ -10,13 +10,13 @@ body{
 
 header{
     background: #ffa617;
-    height: 10%;
+    height: 7%;
     width:100%
 }
 
 header a{
     text-decoration: none;
-    line-height: 75px
+    line-height: 70px
 }
 
 #menu{
@@ -36,7 +36,7 @@ header a{
 #corps{
     margin-top: 20px;
     margin-left: 20px;
-    margin-bottom: 100px
+    margin-bottom: 10%
 }
 #texte-photo {
   display: inline-block;
