@@ -10,7 +10,8 @@ body{
 
 header{
     background: #ffa617;
-    height: 10%
+    height: 10%;
+    width:100%
 }
 
 header a{
@@ -72,7 +73,9 @@ header a{
     line-height: 150%
 }
 
-
+.doc{
+    text-decoration: none
+}
 
 .nom{
     text-decoration: underline
