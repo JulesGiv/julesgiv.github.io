@@ -9,7 +9,7 @@ body{
 
 header{
     background: #ffa617;
-    height: 90px
+    height: 10%
 }
 
 header a{
@@ -27,7 +27,7 @@ header a{
 }
 
 .top-button{
-    margin-right: 2%
+    margin-right: 4%
 }
 
 #corps{
@@ -56,6 +56,10 @@ header a{
 #corps_doc{
     margin: 30px 40px;
     line-height: 150%
+}
+
+.doc-list{
+    margin-left:15px
 }
 
 #corps_ens{
